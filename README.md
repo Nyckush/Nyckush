@@ -8,7 +8,20 @@ Estudio la Tecnicatura Superior en Desarrollo de Software. Me gusta crear aplica
 
 - **[Habitos-Traked](https://github.com/Nyckush/Habitos-Traked)** — aplicación móvil para registrar y seguir hábitos. Desarrollada con React Native, Expo y TypeScript, con un backend en Laravel.
 - **[Tudia](https://github.com/Nyckush/Tudia-)** — sistema para gestionar eventos e invitados. Combina Next.js y TypeScript en el frontend con Java y Spring Boot en el backend.
+
+  ![Vista previa de Tudia](img/tudia.png)
+
 - **[MuniCity](https://github.com/Nyckush/MuniCity)** — proyecto web con frontend en JavaScript y backend en Java y Spring Boot.
+
+  ![Vista previa de MuniCity](img/municity.png)
+
+- **Aulify** — aplicación para la gestión de cursos y asistencia de estudiantes.
+
+  ![Vista previa de Aulify](img/aulify.png)
+
+- **IES Nuevo Horizonte** — sitio web institucional con información académica y accesos para estudiantes.
+
+  ![Vista previa del sitio de IES Nuevo Horizonte](img/iesnh.png)
 
 ## Tecnologías que uso en mis proyectos
 
