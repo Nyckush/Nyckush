@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Nyckush.png" alt="Foto de perfil de Nicolás Velásquez" width="120" />
 
-Estudio la Tecnicatura Superior en Desarrollo de Software. Me gusta crear aplicaciones que resuelvan problemas cotidianos, desde la interfaz hasta el backend.
+Me gusta crear aplicaciones que resuelvan problemas cotidianos, desde la interfaz hasta el backend.
 
 ## Proyectos destacados
 
