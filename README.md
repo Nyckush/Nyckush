@@ -6,8 +6,8 @@ Estudio la Tecnicatura Superior en Desarrollo de Software. Me gusta crear aplica
 
 ## Proyectos destacados
 
-- **[Habitos-Traked](https://github.com/Nyckush/Habitos-Traked)** — aplicación móvil para registrar y seguir hábitos. Desarrollada con React Native, Expo y TypeScript, con un backend en Laravel.
-- **[Tudia](https://github.com/Nyckush/Tudia-)** — sistema para gestionar eventos e invitados. Combina Next.js y TypeScript en el frontend con Java y Spring Boot en el backend.
+- **[Habitos-Traked](https://github.com/Nyckush/Habitos-Traked)** — aplicación móvil para registrar y seguir hábitos. Desarrollada con React Native, Expo y TypeScript, con un backend en Laravel. [Ver sitio](https://habitostraked.iunex.com.ar/admin/login).
+- **[Tudia](https://github.com/Nyckush/Tudia-)** — sistema para gestionar eventos e invitados. Combina Next.js y TypeScript en el frontend con Java y Spring Boot en el backend. [Ver sitio](https://tudia.iunex.com.ar/login).
 
   ![Vista previa de Tudia](img/tudia.png)
 
@@ -15,11 +15,11 @@ Estudio la Tecnicatura Superior en Desarrollo de Software. Me gusta crear aplica
 
   ![Vista previa de MuniCity](img/municity.png)
 
-- **Aulify** — aplicación para la gestión de cursos y asistencia de estudiantes.
+- **Aulify** — aplicación para la gestión de cursos y asistencia de estudiantes. [Ver sitio](https://aulify.softlixs.com/admin).
 
   ![Vista previa de Aulify](img/aulify.png)
 
-- **IES Nuevo Horizonte** — sitio web institucional con información académica y accesos para estudiantes.
+- **IES Nuevo Horizonte** — sitio web institucional con información académica y accesos para estudiantes. [Ver sitio](https://iesnuevohorizonte.com/).
 
   ![Vista previa del sitio de IES Nuevo Horizonte](img/iesnh.png)
 
